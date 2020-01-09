@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b86e92c0-1e93-4de4-8f1e-a97767e43d05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1VpjYmr1kC8TZS6Hig0CFuGn0Vk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="music-reptile" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="music-reptile" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projiect\python\music-reptile\demo\excel" />
+      <recent name="D:\projiect\python\music-reptile\demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projiect\python\music-reptile" />
+      <recent name="D:\projiect\python\music-reptile\demo\163" />
+      <recent name="D:\projiect\python\music-reptile\demo\excel" />
+      <recent name="D:\projiect\python\music-reptile\demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.songlist">
+    <configuration name="song" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="music-reptile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\projiect\python\music-reptile\demo\163\song.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="songlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="music-reptile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/taihe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/taihe/songlist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="music-reptile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\projiect\python\music-reptile\demo\163\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wyy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="music-reptile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\projiect\python\music-reptile\demo\163\wyy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.songlist" />
+        <item itemvalue="Python.song" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.wyy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b86e92c0-1e93-4de4-8f1e-a97767e43d05" name="Default Changelist" comment="" />
+      <created>1577956981221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577956981221</updated>
+      <workItem from="1577956983201" duration="1638000" />
+      <workItem from="1577958656793" duration="110000" />
+      <workItem from="1577958776163" duration="305000" />
+      <workItem from="1577959093480" duration="12692000" />
+      <workItem from="1578034351986" duration="64586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="215" key="#Notifications" timestamp="1577958667787">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="710" y="215" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1577958667787" />
+    <state x="322" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578034375430">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="322" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578034375430" />
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578449317440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578449317440" />
+    <state x="614" y="251" key="EnvironmentVariablesDialog" timestamp="1578033970476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="614" y="251" key="EnvironmentVariablesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578033970476" />
+    <state x="853" y="328" key="FileChooserDialogImpl" timestamp="1578034761662">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="853" y="328" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1578034761662" />
+    <state width="1877" height="427" key="GridCell.Tab.0.bottom" timestamp="1578535552924">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1578535552924" />
+    <state width="1877" height="427" key="GridCell.Tab.0.center" timestamp="1578535552924">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1578535552924" />
+    <state width="1877" height="427" key="GridCell.Tab.0.left" timestamp="1578535552924">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1578535552924" />
+    <state width="1877" height="427" key="GridCell.Tab.0.right" timestamp="1578535552924">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578535552924" />
+    <state width="1266" height="305" key="GridCell.Tab.1.bottom" timestamp="1578535552922">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1266" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1578535552922" />
+    <state width="1266" height="305" key="GridCell.Tab.1.center" timestamp="1578535552922">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1266" height="305" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1578535552922" />
+    <state width="1266" height="305" key="GridCell.Tab.1.left" timestamp="1578535552922">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1266" height="305" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1578535552922" />
+    <state width="1266" height="305" key="GridCell.Tab.1.right" timestamp="1578535552922">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1266" height="305" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578535552922" />
+    <state x="381" y="132" key="SettingsEditor" timestamp="1578034783025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="381" y="132" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578034783025" />
+    <state width="613" height="488" key="XDebugger.FullValuePopup" timestamp="1578534629976">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="613" height="488" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1578534629976" />
+    <state x="927" y="49" width="647" height="807" key="find.popup" timestamp="1578469030180">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="927" y="49" width="647" height="807" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1578469030180" />
+    <state x="895" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1578463026987">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="895" y="321" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1578463026987" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="data['bitrate']['file_link']" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/music_reptile$test.coverage" NAME="test Coverage Results" MODIFIED="1578375487992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/music_reptile$song.coverage" NAME="song Coverage Results" MODIFIED="1578377499202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/music_reptile$songlist.coverage" NAME="songlist Coverage Results" MODIFIED="1578534471503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/taihe" />
+    <SUITE FILE_PATH="coverage/music_reptile$wyy.coverage" NAME="wyy Coverage Results" MODIFIED="1578359901087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+  </component>
+</project>
