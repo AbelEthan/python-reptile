@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b86e92c0-1e93-4de4-8f1e-a97767e43d05" name="Default Changelist" comment="" />
+    <list default="true" id="b86e92c0-1e93-4de4-8f1e-a97767e43d05" name="Default Changelist" comment="添加千千音乐信息爬取">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/163/song.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/163/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/163/wyy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel/music.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel/song.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel/songId.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +27,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\projiect\python\python-reptile\music-reptile\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1VpjYmr1kC8TZS6Hig0CFuGn0Vk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,8 +43,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -180,11 +199,24 @@
       <workItem from="1577958776163" duration="305000" />
       <workItem from="1577959093480" duration="12692000" />
       <workItem from="1578034351986" duration="64586000" />
+      <workItem from="1578535642710" duration="185000" />
     </task>
+    <task id="LOCAL-00001" summary="添加千千音乐信息爬取">
+      <created>1578535740451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578535740451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加千千音乐信息爬取" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加千千音乐信息爬取" />
   </component>
   <component name="WindowStateProjectService">
     <state x="710" y="215" key="#Notifications" timestamp="1577958667787">
@@ -199,14 +231,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578449317440" />
+    <state x="734" y="216" key="CommitChangelistDialog2" timestamp="1578535811036">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="734" y="216" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1578535811036" />
     <state x="614" y="251" key="EnvironmentVariablesDialog" timestamp="1578033970476">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="614" y="251" key="EnvironmentVariablesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578033970476" />
-    <state x="853" y="328" key="FileChooserDialogImpl" timestamp="1578034761662">
+    <state x="853" y="328" key="FileChooserDialogImpl" timestamp="1578535824974">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="853" y="328" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1578034761662" />
+    <state x="853" y="328" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1578535824974" />
     <state width="1877" height="427" key="GridCell.Tab.0.bottom" timestamp="1578535552924">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -243,6 +279,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="381" y="132" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578034783025" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1578535756750">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1578535756750" />
     <state width="613" height="488" key="XDebugger.FullValuePopup" timestamp="1578534629976">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
